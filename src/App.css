@@ -1,0 +1,33 @@
+*{
+  padding:0;
+  margin:0;
+}
+body{
+  width:100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.container{
+  width:100%;
+}
+
+
+#mainLogo{
+  height: 3rem;
+  margin-top: 0px;
+  padding-top:0px;
+  align-self:flex-start;  
+}
+
+h2{
+  color:white;
+}
+
+video{
+  width:fit-content;
+  height:250px;
+  border-radius: 10px;
+  border:none;
+  background-size: cover;
+}

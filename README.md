@@ -1,4 +1,4 @@
-# 📺 Lecture Video Tracker — SDE Intern Assignment
+# 📺 Lecture Video Tracker 
 
 This project is a lecture video web player that tracks user progress intelligently by identifying **unique watched intervals**, even if the user rewatches or skips around. The app also remembers where the user left off and resumes from that position on reload.
 
